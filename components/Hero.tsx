@@ -1,4 +1,5 @@
 
+import { FaLocationArrow } from "react-icons/fa";
 import MagicButton from "./ui/MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
@@ -43,7 +44,7 @@ const Hero = () => {
             Hi! I&apos;m Chahine, a Next.js Developer based in Lebanon.
           </p>
           <a href="#about">
-          <MagicButton/>
+          <MagicButton title="Show my Work" icon={<FaLocationArrow/>} position={"right"}/>
           </a>
         </div>
       </div>
