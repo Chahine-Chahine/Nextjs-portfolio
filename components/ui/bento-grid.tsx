@@ -44,7 +44,7 @@ spareImg,
 }) => {
 
   const leftLists = ["ReactJS", "Express", "Typescript"];
-  const rightLists = ["VueJS", "NuxtJS", "GraphQL"];
+  const rightLists = ["Laravel", "NextJS", "Redux"];
 
 
   return (
