@@ -104,41 +104,34 @@ export const navItems = [
     },
   ];
   
-  export const testimonials = [
+  export const testimonials =[
     {
       quote:
-        "Collaborating with Chahine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Chahine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Anfs Designs",
-      title: "Degital Marketing Agency",
-      image: "/profile.svg"
+        "Collaborating with KreativeBrains was an absolute pleasure. Their professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. KreativeBrains' enthusiasm for every facet of development truly stands out. If you're seeking to elevate your digital presence, KreativeBrains is the ideal partner.",
+      name: "ANFS Digital Marketing Agency",
+      title: "Digital Marketing Specialist",
+      image: "/profile.svg",
     },
     {
       quote:
-      "Collaborating with Chahine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Chahine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Anfs Designs",
-      title: "Director of AlphaStream Technologies",
-      image: "/stream.svg"
+        "Working with KreativeBrains on developing our QR code menu was a seamless experience. Their ability to translate our needs into a user-friendly and innovative solution was remarkable. KreativeBrains' creativity and technical expertise have significantly enhanced our customer experience at Nara Caffe.",
+      name: "Nara Caffe",
+      title: "Owner",
+      image: "/stream.svg",
     },
     {
       quote:
-      "Collaborating with Chahine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Chahine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Anfs Designs",
-      title: "Director of AlphaStream Technologies",
-      image: "/stream.svg"
+        "KreativeBrains' work on our QR social media tree website was exceptional. Their attention to detail and understanding of our brand helped create a digital presence that truly reflects our pharmacy's values. We highly recommend KreativeBrains for anyone looking to innovate their online identity.",
+      name: "Mar Mkhayel Pharmacy",
+      title: "Pharmacist",
+      image: "/stream.svg",
     },
     {
       quote:
-      "Collaborating with Chahine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Chahine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Anfs Designs",
-      title: "Director of AlphaStream Technologies",
-      image: "/stream.svg"
-    },
-    {
-      quote:
-      "Collaborating with Chahine was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Chahine's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Anfs Designs",
-      title: "Director of AlphaStream Technologies",
-      image: "/stream.svg"
+        "KreativeBrains delivered an outstanding landing website for Chahine Travel, showcasing our services with clarity and style. Their commitment to quality and collaborative approach made the project a success. We are thrilled with the results and look forward to working with them again.",
+      name: "Chahine Travel",
+      title: "Travel Agency Manager",
+      image: "/stream.svg",
     },
   ];
   
