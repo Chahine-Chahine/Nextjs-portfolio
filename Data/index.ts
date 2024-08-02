@@ -203,13 +203,17 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      url: "https://github.com/chahine-Chahine", 
     },
     {
       id: 2,
       img: "/twit.svg",
+      url: "https://twitter.com/",
     },
     {
       id: 3,
       img: "/link.svg",
+      url: "https://linkedin.com/in/chahine-chahine-5ba191276", 
     },
   ];
+  
