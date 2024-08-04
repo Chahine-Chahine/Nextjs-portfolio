@@ -83,7 +83,7 @@ export const navItems = [
       title: "Next portfolio",
       des: "Full portfolio implemented using Next js tech.",
       img: "/pw.png",
-      iconLists: ["/Next.svg", "/tail.svg", "/ts.svg"],
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
       link: "https://github.com/Chahine-Chahine/Nextjs-portfolio",
     },
     {
