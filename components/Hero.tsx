@@ -41,7 +41,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Chahine, a Next.js Developer based in Lebanon.
+            Hi! I&apos;m Chahine, a Full Stack Developer based in Lebanon.
           </p>
           <a href="#about">
           <MagicButton title="Show my Work" icon={<FaLocationArrow/>} position={"right"}/>
