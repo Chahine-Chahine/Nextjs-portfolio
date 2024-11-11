@@ -228,3 +228,59 @@ export const navItems = [
     },
   ];
   
+  export const plans = [
+    {
+      id: 1,
+      title: "Basic",
+      services: [
+        "Up to 20 hours of development",
+        "Simple website or app development (static site or basic CMS)",
+        "Basic deployment and hosting setup",
+        "Basic SEO setup (title and meta tags)",
+        "Additional Service"
+      ],
+      Price: "$50 - $100 per project",
+      color: "#FF9F00" // Custom color for Basic plan
+    },
+    {
+      id: 2,
+      title: "Standard",
+      services: [
+        "Up to 50 hours of development",
+        "Dynamic website or app development (interactive pages forms and basic databases)",
+        "Customizable templates and user interface",
+        "Two rounds of revisions",
+        "Cross-browser and mobile responsive design"
+      ],
+      Price: "$200 - $500 per project",
+      color: "#2C82F7" // Custom color for Standard plan
+    },
+    {
+      id: 3,
+      title: "Premium",
+      services: [
+        "Up to 100 hours of development",
+        "Full-featured web app or custom website development",
+        "Advanced UI/UX design (custom animations, interactive elements)",
+        "Multi-page or multi-platform integration (API, cloud services, multi-database setup)",
+        "Multiple rounds of revisions (up to 5)"
+      ],
+      Price: "$1,500 - $5,000 per project",
+      color: "#F14BFF" // Custom color for Premium plan
+    },
+    {
+      id: 4,
+      title: "Hourly",
+      services: [
+        "Ad-hoc programming, bug fixing, and consulting",
+        "Custom work on existing codebases (bug fixes, small feature development)",
+        "No long-term commitments, flexible timelines",
+        "Reporting and documentation on demand",
+        "Additional Service"
+      ],
+      Price: "$30 - $60 per hour",
+      color: "#27A88D" // Custom color for Hourly plan
+    }
+  ];
+  
+  

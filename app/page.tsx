@@ -9,6 +9,7 @@ import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
+import PricingPlans from "@/components/PricingPlans";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Hero/>
       <Grid/>
       <RecentProjects/>
+      <PricingPlans/>
       <Clients/>
       <Experience/>
       <Approach/>
