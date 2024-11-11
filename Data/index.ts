@@ -82,7 +82,7 @@ export const navItems = [
       id: 2,
       title: "Next portfolio",
       des: "Full portfolio implemented using Next js tech.",
-      img: "/pw.png",
+      img: "/portfolio.jpeg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
       link: "https://github.com/Chahine-Chahine/Nextjs-portfolio",
     },
@@ -101,6 +101,22 @@ export const navItems = [
       img: "/qr.png",
       iconLists: ["/node.svg", "/html.svg", "/css.svg", "/js.svg"],
       link: "https://github.com/chahine-Chahine/menu-qr",
+    },
+    {
+      id: 5,
+      title: "Google Docs Clone",
+      des: "Google Docs clone with clerk authentication and jsm editor package",
+      img: "/google-docs.webp",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+      link: "https://github.com/Chahine-Chahine/liveDocs",
+    },
+    {
+      id: 6,
+      title: "Simon Game",
+      des: "Simon logic game using javaScript, HTML and Css",
+      img: "/simon.jpg",
+      iconLists: ["/html.svg", "/css.svg", "/js.svg"],
+      link: "https://github.com/Chahine-Chahine/uber-clone",
     },
   ];
   
