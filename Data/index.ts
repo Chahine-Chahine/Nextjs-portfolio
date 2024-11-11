@@ -154,33 +154,28 @@ export const navItems = [
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
-      img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      name: "Typescript",
+      img: "/ts.svg",
     },
     {
       id: 2,
-      name: "appwrite",
-      img: "/app.svg",
-      nameImg: "/appName.svg",
+      name: "Javascript",
+      img: "/js.svg",
     },
     {
       id: 3,
-      name: "HOSTINGER",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
+      name: "Nextjs",
+      img: "/next.svg",
     },
     {
       id: 4,
-      name: "stream",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
+      name: "TailwindCss",
+      img: "/tail.svg",
     },
     {
       id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
+      name: "Laravel",
+      img: "/laravel-logo.svg",
     },
   ];
   
@@ -240,7 +235,7 @@ export const navItems = [
         "Additional Service"
       ],
       Price: "$50 - $100 per project",
-      color: "#FF9F00" // Custom color for Basic plan
+      color: "#FF9F00" 
     },
     {
       id: 2,
@@ -253,7 +248,7 @@ export const navItems = [
         "Cross-browser and mobile responsive design"
       ],
       Price: "$200 - $500 per project",
-      color: "#2C82F7" // Custom color for Standard plan
+      color: "#2C82F7" 
     },
     {
       id: 3,
@@ -266,7 +261,7 @@ export const navItems = [
         "Multiple rounds of revisions (up to 5)"
       ],
       Price: "$1,500 - $5,000 per project",
-      color: "#F14BFF" // Custom color for Premium plan
+      color: "#F14BFF" 
     },
     {
       id: 4,
@@ -279,7 +274,7 @@ export const navItems = [
         "Additional Service"
       ],
       Price: "$30 - $60 per hour",
-      color: "#27A88D" // Custom color for Hourly plan
+      color: "#27A88D" 
     }
   ];
   
