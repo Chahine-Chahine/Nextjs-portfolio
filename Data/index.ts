@@ -228,39 +228,39 @@ export const navItems = [
       id: 1,
       title: "Basic",
       services: [
-        "Up to 20 hours of development",
+        "Up to 10 hours of development",
         "Simple website or app development (static site or basic CMS)",
         "Basic deployment and hosting setup",
         "Basic SEO setup (title and meta tags)",
         "Additional Service"
       ],
-      Price: "$50 - $100 per project",
+      Price: "$150 - $250 per project",
       color: "#FF9F00" 
     },
     {
       id: 2,
       title: "Standard",
       services: [
-        "Up to 50 hours of development",
+        "Up to 30 hours of development",
         "Dynamic website or app development (interactive pages forms and basic databases)",
         "Customizable templates and user interface",
         "Two rounds of revisions",
         "Cross-browser and mobile responsive design"
       ],
-      Price: "$200 - $500 per project",
+      Price: "$500 - $1000 per project",
       color: "#2C82F7" 
     },
     {
       id: 3,
       title: "Premium",
       services: [
-        "Up to 100 hours of development",
+        "Up to 50 hours of development",
         "Full-featured web app or custom website development",
         "Advanced UI/UX design (custom animations, interactive elements)",
         "Multi-page or multi-platform integration (API, cloud services, multi-database setup)",
         "Multiple rounds of revisions (up to 5)"
       ],
-      Price: "$1,500 - $5,000 per project",
+      Price: "$3,500 - $8,000 per project",
       color: "#F14BFF" 
     },
     {
